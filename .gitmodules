@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/bclark1014/bclark1014.github.io.git
